@@ -2,9 +2,9 @@
 """
 
 # передается номер без +7 :int
-login: int = 9785737254
+login: int = 9999999999
 # токен бота :str
-BOT_TOKEN: str = '1418476569:AAFM3y0nJWyfBVw_B2ySrnQ9I7nXal4g9o8'
+BOT_TOKEN: str = '143123123:fvjownv92h3498h2hjfhjfuih2fh2fuh'
 # Абсолютный путь до chromedriver
 path_chromedriver = '/home/todd/Документы/wb_parser/src/chromedriver'
 
